@@ -27,3 +27,22 @@
 .note {
     font-size: x-small;
 }
+
+
+@media (min-width: 1025px) {
+    .pictureN1 {
+        
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .pictureN1 {
+        max-width: 40dvh;
+        max-height: 80dvh;
+        justify-content: center;
+        align-items: center;
+    }
+}
