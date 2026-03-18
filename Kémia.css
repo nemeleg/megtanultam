@@ -1,0 +1,23 @@
+@media (min-width: 1025px) {
+    .pictureN {
+        padding-left: 28%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1024px) {
+    .pictureN {
+        padding-left: 5dvh;
+        max-width: 40dvh;
+        max-height: 80dvh;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.text {
+    text-align: center;
+}
