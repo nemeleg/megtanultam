@@ -25,3 +25,16 @@
 .Linklist {
 
 }
+
+@media (min-width: 1025px) {
+    .list { 
+    padding-left: 80dvh;
+}
+}
+
+@media (max-width: 1024px) {
+    .list { 
+    padding-left: 10dvh;
+}
+}
+
