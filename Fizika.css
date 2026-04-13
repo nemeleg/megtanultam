@@ -1,0 +1,15 @@
+.text {
+    text-align: center;
+}
+
+.definition {
+    font-size: large;
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(80, 250, 117);
+}   
+
+.magyar {
+    text-decoration: underline;
+    text-align: center;
+}
